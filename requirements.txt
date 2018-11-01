@@ -1,0 +1,6 @@
+pandas
+jupyterlab
+pandas-profiling
+matplotlib
+quandl
+seaborn
